@@ -1,0 +1,13 @@
+.content {
+  background-color: #5A6269;
+  position: absolute;
+  z-index: 100;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.btn {
+  position: relative;
+}

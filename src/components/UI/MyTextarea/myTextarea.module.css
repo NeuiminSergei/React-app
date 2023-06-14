@@ -1,0 +1,16 @@
+.textarea {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 20px;
+  resize: none;
+  color: #fff;
+  font-size: 18px;
+  background-color: #272E33;
+  border: none;
+  outline: none;
+  caret-color: var(--accent-color);
+}
+
+.textarea:nth-child(2) {
+  height: 200px;
+}

@@ -1,0 +1,27 @@
+.post {
+  background-color: var(--background-color);
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.post_title {
+  margin-bottom: 15px;
+}
+
+.comments {
+  background-color: var(--background-color);
+  padding: 20px;
+}
+
+.comments_title {
+  margin-bottom: 50px;
+}
+
+.comment {
+  margin-bottom: 30px;
+}
+
+.comment_author {
+  margin-bottom: 10px;
+  color: var(--accent-color);
+}

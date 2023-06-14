@@ -1,0 +1,17 @@
+.post {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #272E33;
+  cursor: pointer;
+}
+
+.title {
+  margin-bottom: 15px;
+}
+
+.content {
+  max-width: 75%;
+}

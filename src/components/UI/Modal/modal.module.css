@@ -1,0 +1,22 @@
+.modal_wrapper {
+  position: fixed;
+  inset: 0;
+  display: none;
+  z-index: 10000;
+}
+
+.modal {
+  position: relative;
+  min-width: 800px;
+  padding: 0 30px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #161a1d;
+}
+
+.modal_active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000bf;
+}

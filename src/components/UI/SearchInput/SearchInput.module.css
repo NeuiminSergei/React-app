@@ -1,0 +1,10 @@
+.input {
+  width: 50%;
+  font-size: 14px;
+  padding: 10px 10px;
+  border: none;
+  color: #fff;
+  background-color: var(--background-color);
+  caret-color: var(--accent-color);
+  outline: none;
+}

@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+  box-sizing: inherit;
+  margin: 0;
+}
+
+body {
+  max-width: 830px;
+  margin: 0 auto;
+  padding: 30px 15px;
+  font-family: sans-serif;
+  background-color: #161a1d;
+  color: #fff;
+}
+
+:root {
+  --accent-color: #690200;
+  --background-color: #272E33;
+}
+
+.wrapper {
+  margin-bottom: 30px;
+}
+
+.loader_wrap {
+  display: flex;
+  justify-content: center;
+}
